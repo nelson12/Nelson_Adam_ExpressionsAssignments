@@ -4,6 +4,7 @@ var sandIn= "sand";
 var square= "box";
 var sandbox = sandIn+ ' '+square;
 console.log(sandbox);//this is the concatenation portin of the assignment
-
+var length= prompt ("we are trying to determine the width and height and depth of a sand box please enter length"); // prompting for a response from user for length
+console.log(length);
 
 
